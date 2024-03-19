@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Romoz/static/css/main.0893a3d5.css",
+    "main.js": "/Romoz/static/js/main.e91e187e.js",
+    "index.html": "/Romoz/index.html",
+    "main.0893a3d5.css.map": "/Romoz/static/css/main.0893a3d5.css.map",
+    "main.e91e187e.js.map": "/Romoz/static/js/main.e91e187e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0893a3d5.css",
+    "static/js/main.e91e187e.js"
+  ]
+}
